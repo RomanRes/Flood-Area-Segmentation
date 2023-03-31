@@ -4,3 +4,12 @@ Training was done with augmented data generated using the Albumentations library
 The model showed an accuracy of 0.9 on the test set and 0.92 on the entire dataset.
 
 ![Examples of segmentation predictions](https://github.com/RomanRes/Flood-Area-Segmentation/blob/main/pred_example.jpg)
+
+
+The dataset is hosted on kaggle.com 
+
+https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation
+
+Link to my notebook on kaggle
+
+https://www.kaggle.com/code/romanresner/flood-area-unet-albumentations-0-9-on-testset
